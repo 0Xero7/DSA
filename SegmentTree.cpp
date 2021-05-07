@@ -31,8 +31,6 @@ using namespace std;
 #include <intrin.h>
 #endif
 
-using ll = long long;
-
 template <class T, class Merge>
 class SegmentTree {
 private:
